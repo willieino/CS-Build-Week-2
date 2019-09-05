@@ -25,6 +25,7 @@
 <a name="q100"></a>
 ### You're seeing this error because you have `DEBUG = True` in your Django settings file
 
+
 That's not really the error. Look up at the top of the output for the actual error.
 
 ---------------------------------------------------------------------------------------
